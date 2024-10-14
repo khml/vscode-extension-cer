@@ -1,0 +1,24 @@
+{
+  "commands": {
+    "echo": {
+      "command": "echo",
+      "description": "Prints the given text to the terminal"
+    },
+    "ls": {
+      "command": "ls",
+      "description": "Lists the files and directories in the current directory"
+    },
+    "pwd": {
+      "command": "pwd",
+      "description": "Prints the current working directory"
+    },
+    "ls-la": {
+      "command": "ls -la",
+      "description": "Lists the files and directories in the current directory with more details"
+    }
+  },
+  "variables": {
+    "VERSION": "0.0.1",
+    "NAME": "cer"
+  }
+}
